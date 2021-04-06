@@ -1,3 +1,3 @@
 - 👋 Hello, we are @saoirse-os!
-- 🌱 Through the process of learning we will be developing a GNU/Linux distribution.
+- 🌱 Through the process of learning we will be developing a GNU/Linux auto-installable "distribution".
 - 💞️ To this day our team is composed by it's two founders.
